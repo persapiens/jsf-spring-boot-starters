@@ -45,7 +45,7 @@ allprojects {
         dependencies {
             dependency 'jakarta.faces:jakarta.faces-api:2.3.2'
 
-            dependency 'org.glassfish:jakarta.faces:2.3.16'
+            dependency 'org.glassfish:jakarta.faces:3.0.1'
 
             dependencySet('org.apache.myfaces.core:2.3.9') {
                 entry "myfaces-api"
