@@ -31,7 +31,7 @@ dependencies {
     optional 'org.jboss.weld.servlet:weld-servlet-core'
     optional 'org.glassfish:jakarta.faces'
     optional 'org.apache.myfaces.core:myfaces-impl'
-    optional 'org.omnifaces:omnifaces:1.14.1'
+    optional 'org.omnifaces:omnifaces:3.11.1'
     optional 'org.primefaces:primefaces'
     optional 'org.icefaces:icefaces'
     optional 'org.icefaces:icefaces-ace'

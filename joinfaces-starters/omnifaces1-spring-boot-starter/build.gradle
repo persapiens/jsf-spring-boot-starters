@@ -3,5 +3,5 @@ jar.manifest.attributes('Automatic-Module-Name': 'joinfaces.starter.omnifaces')
 
 dependencies {
     api project(':joinfaces-starters:jsf-spring-boot-starter')
-    api 'org.omnifaces:omnifaces:1.14.1'
+    api 'org.omnifaces:omnifaces:3.11.1'
 }
