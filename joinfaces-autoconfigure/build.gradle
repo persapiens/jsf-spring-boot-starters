@@ -49,7 +49,7 @@ dependencies {
     optional 'com.github.adminfaces:admin-template'
     optional 'com.github.adminfaces:admin-theme'
     optional 'jakarta.ejb:jakarta.ejb-api'
-    
+
     optional 'org.apache.myfaces.tobago:tobago-core'
     optional 'org.apache.myfaces.tobago:tobago-theme-standard'
 

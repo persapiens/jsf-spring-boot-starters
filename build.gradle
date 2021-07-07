@@ -81,7 +81,7 @@ allprojects {
                 entry "richfaces-a4j"
             }
 
-            dependencySet('com.github.albfernandez.richfaces:4.6.13.ayg') {
+            dependencySet('com.github.albfernandez.richfaces:4.6.14.ayg') {
                 entry "richfaces"
                 entry "richfaces-a4j"
             }
